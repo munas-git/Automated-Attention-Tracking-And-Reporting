@@ -19,7 +19,7 @@ The underlying model was efficiently trained using the [Roboflow](https://robofl
   - ***Supervisee***: Access to the time stamp of when the individual was distracted to enable seamless review of recorded sessions with a focus on missed portions
   - ***Supervisee***: Access to AI summary of missed portion, potentially including links to online resources to help further understand missed portions, especially in school lecture settings.
 - **Customizable Alerts**: Set thresholds for distraction levels and receive real-time alerts, ensuring that attention issues are addressed promptly.
-- **Distraction Levels Predictions**: Utilize data of past distraction triggers to train AI capable of predicting distraction growth levels during sessions (Will experiment with Mixture Of Experts models).
+- **Distraction Levels Predictions**: Utilize data of past distraction triggers to train AI capable of predicting distraction growth levels during sessions (worth experiment with Mixture Of Experts models).
 -   **Performance Prediction**: Utilize data of past distraction levels of classes (or individuals to be more granular) to predict class (or individual) performance based on attention/distraction levels throughout the term. 
   
 ### Tools and Libraries used:
@@ -30,4 +30,8 @@ The underlying model was efficiently trained using the [Roboflow](https://robofl
 * Roboflow Data Annotation
 
 ## Snapshots of System... Demo available on [YouTube.](https://youtu.be/VviehI3x7bc?si=6o1hAmVD96Fuf14D)
-![Picture1](https://github.com/user-attachments/assets/87893103-990b-4667-b89b-2c6748d08fb2)
+![Picture1](https://github.com/user-attachments/assets/87893103-990b-4667-b89b-2c6748d08fb2)   
+
+> Extra Notes   
+
+You are welcome to join me in the development of this system.... Do you have ideas on better ways to implement it or new features to work on? Feel free to send me an email with the subject `IMPROVEMENT: Automated Attention Tracking and Reporting` and I will do my best to get back to you as soon as possible.
