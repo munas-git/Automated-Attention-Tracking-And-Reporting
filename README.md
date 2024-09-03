@@ -7,7 +7,7 @@ The Automated Attention Tracking and Reporting system is a simple and elegant AI
 The underlying model was efficiently trained using the [Roboflow](https://roboflow.com/) platform AutoML feature, allowing seamless integration and rapid deployment. This system does not only track attention/focus but also visualizes trends over time, offering an overview of engagement patterns and distraction level growth throughout a session.   
 
 ## Users of this system get to enjoy the following benefits:
-- **Real-Time Monitoring**: Instantly track and visualize distraction levels during live sessions, enabling immediate intervention to maintain focus or pre-recorded videos.
+- **Real-Time Monitoring**: Instantly track and visualize distraction levels during live sessions, enabling immediate intervention to maintain focus. The system can also be used to analyze pre-recorded videos.
 - **Comprehensive Analytics**:
   - ***Supervisor***: Access to detailed reports and trend analyses that highlight engagement patterns over time, helping to identify areas for improvement.
 - **Enhanced Engagement**: By understanding distraction triggers, educators and facilitators can tailor their approach to maximize attention and participation.
