@@ -29,10 +29,5 @@ The underlying model was efficiently trained using the [Roboflow](https://robofl
 * Roboflow AutoML
 * Roboflow Data Annotation
 
-## Snapshots of System.
+## Snapshots of System... Demo available on [YouTube.](https://youtu.be/VviehI3x7bc?si=6o1hAmVD96Fuf14D)
 ![Picture1](https://github.com/user-attachments/assets/87893103-990b-4667-b89b-2c6748d08fb2)
-
-## Demo of System.
-
-
-> Extra Notes   
